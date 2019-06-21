@@ -1,5 +1,5 @@
 {
-  "name": "cadence/pinterest-m2",
+  "name": "sbarale/pinterest-m2",
   "description": "Pinterest Tag Support For Magento 2.x",
   "require": {
     "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0"
