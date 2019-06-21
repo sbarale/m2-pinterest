@@ -1,4 +1,4 @@
-# cadence/m2-pinterest
+# sbarale/m2-pinterest
 ## Magento 2 Pinterest Tag Implementation
 This extension adds support to Magento 2 for the Pinterest Tag and its associated events. 
 Current event support:
